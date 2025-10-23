@@ -1,4 +1,4 @@
-# Hey, I'm Mateus Britto!
+# Hey, I'm Mateus!
 
 Welcome to my GitHub profile!
 
