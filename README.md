@@ -1,4 +1,4 @@
-# Hey, I'm Mateus!
+# Hey there, I'm Mateus!
 
 Welcome to my GitHub profile!
 
